@@ -1,23 +1,24 @@
-#🔗 Hii, I'm Leena Tamulcar 🖐️
-##🎓PGDM Student at FIIB, New Delhi
-##I am a management student interested in financial analysis, corporate finance, investment decisions.
+# Hi, I'm Leena Tamulcar 👋
 
-##🔗Certifications
- 1. Leadership in the Family Business
- 2. Entrepreneurial Mindset
- 3. Foundations of Project Management
- 4. Project Management Principles and Practices
- 5. Preparing to Manage Human Resources
+## 🎓 PGDM Student at FIIB, New Delhi
 
-##🔗Currently learning
-Financial accounting
-Management Accounting
-Strategic finance and financial reporting ananlysis
+I am a management student interested in corporate finance, investment decisions.
 
-##🔗Let's connnect
- 1. Linkedin - www.linkedin.com/in/leena-tamulcar-10a06a265
- 2. Kaggle - 
- 3. Gmail - 28-leena.tamulcar@fiib.edu.in 
+## 📜 Certifications
+1. Leadership in the Family Business
+2. Entrepreneurial Mindset
+3. Foundations of Project Management
+4. Project Management Principles and Practices
+5. Preparing to Manage Human Resources
+
+## 🌱 Currently learning
+Financial accounting, Management Accounting, Strategic finance
+
+## 🔗 Let's connect
+1. LinkedIn - http://www.linkedin.com/in/leena-tamulcar-10a06a265
+2. Gmail - 28-leena.tamulcar@fiib.edu.in
+
+
 
 
 
