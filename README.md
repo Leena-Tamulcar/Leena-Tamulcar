@@ -20,6 +20,10 @@ I am a management student interested in financial analysis, corporate finance, i
 - Risk Management
 - Mergers & Acquisitions (M&A)
 
+## 💼 Internship & Projects
+- Internship in Digital Marketing - Worked on campaign planning, social media strategy and market research
+- Internship / Project in Human Resource Management - Worked on HR operations and employee engagement activities
+
 ## 🔗 Let's connect
 1. LinkedIn - http://www.linkedin.com/in/leena-tamulcar-10a06a265
 2. Kaggle - 
