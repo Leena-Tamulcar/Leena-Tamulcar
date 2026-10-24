@@ -26,7 +26,7 @@ I am a management student interested in financial analysis, corporate finance, i
 
 ## 🔗 Let's connect
 1. LinkedIn - http://www.linkedin.com/in/leena-tamulcar-10a06a265
-2. Kaggle - 
+2. Kaggle - https://www.kaggle.com/leenatamulcar
 3. Gmail - 28-leena.tamulcar@fiib.edu.in
 
 
