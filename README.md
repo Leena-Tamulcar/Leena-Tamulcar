@@ -1,8 +1,9 @@
-# Hi, I'm Leena Tamulcar 👋
+Ok ab Currently learning ke baad Areas of Interest kar diya, ye lo final:
+
+# 👋 Hii, I'm Leena Tamulcar 
 
 ## 🎓 PGDM Student at FIIB, New Delhi
-
-I am a management student interested in corporate finance, investment decisions, financial analysis.
+I am a management student interested in financial analysis, corporate finance, investment decisions.
 
 ## 📜 Certifications
 1. Leadership in the Family Business
@@ -12,13 +13,20 @@ I am a management student interested in corporate finance, investment decisions,
 5. Preparing to Manage Human Resources
 
 ## 🌱 Currently learning
- Financial accounting,
- Management Accounting,
- Strategic finance and financial reporting analysis.
+- Financial Accounting
+- Management Accounting
+- Strategic Finance and Financial Reporting Analysis
+
+## 💼 Areas of Interest
+- Investment Banking & Equity Research
+- Risk Management
+- Mergers & Acquisitions (M&A)
 
 ## 🔗 Let's connect
 1. LinkedIn - http://www.linkedin.com/in/leena-tamulcar-10a06a265
-2. Gmail - 28-leena.tamulcar@fiib.edu.in
+2. Kaggle - 
+3. Gmail - 28-leena.tamulcar@fiib.edu.in
+
 
 
 
