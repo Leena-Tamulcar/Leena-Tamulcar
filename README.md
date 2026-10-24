@@ -2,7 +2,7 @@
 
 ## 🎓 PGDM Student at FIIB, New Delhi
 
-I am a management student interested in corporate finance, investment decisions.
+I am a management student interested in corporate finance, investment decisions, financial analysis.
 
 ## 📜 Certifications
 1. Leadership in the Family Business
@@ -12,7 +12,7 @@ I am a management student interested in corporate finance, investment decisions.
 5. Preparing to Manage Human Resources
 
 ## 🌱 Currently learning
-Financial accounting, Management Accounting, Strategic finance
+Financial accounting, Management Accounting, Strategic finance and financial reporting analysis.
 
 ## 🔗 Let's connect
 1. LinkedIn - http://www.linkedin.com/in/leena-tamulcar-10a06a265
