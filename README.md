@@ -1,5 +1,3 @@
-Ok ab Currently learning ke baad Areas of Interest kar diya, ye lo final:
-
 # 👋 Hii, I'm Leena Tamulcar 
 
 ## 🎓 PGDM Student at FIIB, New Delhi
